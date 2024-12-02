@@ -1,4 +1,14 @@
-![logo](https://github.com/iamrishavgupta/iamrishavgupta/blob/main/baner.gif)
+
+<div style="text-align: center;">
+  <img 
+    src="https://github.com/iamrishavgupta/iamrishavgupta/blob/main/baner.gif" 
+    alt="Banner" 
+    style="width: 100%; max-width: 800px; height: 250px; object-fit: cover; border-radius: 10px;"
+  />
+</div>
+
+
+
 
 <h1 align="center">Hi 👋, I'm Rishav</h1>
 <h3 align="center">A passionate JavaScript developer from India</h3>
