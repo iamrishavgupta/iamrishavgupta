@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **web3 Development**
 
-- 👨‍💻 All of my projects are available at [https://rishavguptaportfolio.netlify.app/](https://rishavguptaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.rishav.tech/](https://www.rishav.tech/)
 
 - 💬 Ask me about **react and next.js**
 
