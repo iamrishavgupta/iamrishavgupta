@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **web3 Development**
 
-- 👨‍💻 All of my projects are available at [https://www.rishav.tech/]()
+- 👨‍💻 All of my projects are available at []()
 
 - 💬 Ask me about **react and next.js**
 
